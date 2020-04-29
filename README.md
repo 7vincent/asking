@@ -1,4 +1,22 @@
-# asking
+<p align="center">
+  <img src="logo.svg" height="150" width="175" alt="Asking" />
+</p>
+
+<h3 align="center">
+  Interaja com seu público em suas palestras! 🚀
+</h3>
+
+<br>
+
+<div align="center">
+
+[![Coverage Status](https://img.shields.io/coveralls/github/Rocketseat/unform.svg?color=%237159c1)](https://coveralls.io/github/Rocketseat/unform?branch=master)
+
+</div>
+# ASKING
+
+## Overview
+
 Sistema para auxiliar na interação do público com o palestrante através de perguntas.
 
 ## Para rodar o projeto
